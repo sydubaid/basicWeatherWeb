@@ -12,7 +12,8 @@ JavaScript
 How to Run:
 Clone the repository.
 Open index.html in your browser.
-License:
+
+# License:
 MIT License
 
 Feel free to modify and contribute!
